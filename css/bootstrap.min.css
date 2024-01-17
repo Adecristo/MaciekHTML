@@ -6852,11 +6852,11 @@ a {
 .about-image,
 .about-content {
   width: 50%;
-  min-height: 600px;
+  min-height: 770px;
 }
 .about-image {
   background: url(../images/about-image.jpg) no-repeat;
-  background-size: 100% 670px;
+  background-size: 100% 770px;
   float: left;
 }
 .about-content {
