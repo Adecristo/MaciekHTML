@@ -6807,7 +6807,7 @@ a {
   }
 }
 .flexslider img {
-  max-height: 600px;
+  max-height: 800px;
   min-height: 180px;
 }
 #kroki {
@@ -7065,8 +7065,8 @@ section header .separator {
 }
 #parralax-image {
   width: 100%;
-  max-height: 300px;
-  min-height: 300px;
+  max-height: 350px;
+  min-height: 350px;
   background: url("../images/parrallax.jpg") no-repeat center;
   background-size: cover;
   background-attachment: fixed;
