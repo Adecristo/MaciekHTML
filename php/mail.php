@@ -9,8 +9,10 @@ mail($to, $subject, $message, $headers);
 <!DOCTYPE HTML>
 <html lang="pl">
 <head>
-	<meta http-equiv="refresh" />
+	<meta http-equiv="refresh" content="5; url=../index.html" />
 </head>
 <body>
+	<h1>Otrzymaliśmy Twój email. Wkrótce się skontaktujemy!</h1>
+	<h3>Trwa przekierowanie...</h3>
 </body>
 </html>
