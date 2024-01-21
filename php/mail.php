@@ -9,7 +9,7 @@ mail($to, $subject, $message, $headers);
 <!DOCTYPE HTML>
 <html lang="pl">
 <head>
-	<meta http-equiv="refresh" content="0; url=www.olsenpak.pl?" />
+	<meta http-equiv="refresh" />
 </head>
 <body>
 </body>
