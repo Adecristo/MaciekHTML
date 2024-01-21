@@ -1,5 +1,5 @@
 <?php
-$to      = 'email@email.pl';
+$to      = 'kontakt@olsenpak.pl';
 $subject = $_POST['email'];
 $message = $_POST['message'];
 $headers = 'From: '.$_POST['name']. "\r\n". 'Content-type: text/html; charset=utf-8';
